@@ -1,3 +1,3 @@
 #Repo
 
-Some text description
+Some description
